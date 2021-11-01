@@ -1,14 +1,13 @@
 <template>
-  <div class="">
-  </div>
+
 </template>
 
 <script>
-
 export default {
-  name: 'App',
-};
+  name: 'my-button',
+}
 </script>
 
-<style>
+<style scoped>
+
 </style>
