@@ -1,5 +1,5 @@
 # repository-explorer
-
+Осуществяет поиск репозиториев по названию.
 ## Project setup
 ```
 npm install
@@ -19,6 +19,3 @@ npm run build
 ```
 npm run lint
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
